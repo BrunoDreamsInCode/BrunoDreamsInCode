@@ -1,65 +1,66 @@
 <div align="center">
 
-# Olá, eu sou Bruno Domingos! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Bruno+Domingos!;QA+%2F+Suporte+N3;Apaixonado+por+Desenvolvimento" alt="Typing SVG" />
 
-👨🏻‍💻 QA / Suporte N3 • Estudando Python, SQL, JS e web  
-🎯 Aberto a oportunidades em Desenvolvimento de Software  
-✉️ **bruno.dreams.in.code@gmail.com**
-
-</div>
-
-<br>
-
-<div align="center">
-
-**🛠️ Tecnologias**
-
-<img alt="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-&nbsp;
-<img alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-&nbsp;
-<img alt="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-&nbsp;
-<img alt="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-&nbsp;
-<img alt="SQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-&nbsp;
-<img alt="Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-&nbsp;
-<img alt="GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+<p>
+  👨🏻‍💻 QA / Suporte N3 &nbsp;·&nbsp; 📚 Estudando Python, SQL, JS e web<br>
+  🎯 Buscando oportunidades em Desenvolvimento de Software<br>
+  📫 <a href="mailto:bruno.dreams.in.code@gmail.com">bruno.dreams.in.code@gmail.com</a>
+</p>
 
 </div>
 
-<br>
+<hr style="border:0; height:1px; background: linear-gradient(to right, transparent, #58A6FF, transparent);">
 
 <div align="center">
 
-**🌐 Contatos**
+### ⚡ Tech Stack
 
-<a href="https://www.linkedin.com/in/bruno-henrique-domingos/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+<img alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img alt="CSS3" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img alt="JavaScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<img alt="Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img alt="GitHub" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+
+</div>
+
+<hr style="border:0; height:1px; background: linear-gradient(to right, transparent, #58A6FF, transparent);">
+
+<div align="center">
+
+### 🤝 Vamos conectar?
+
+<a href="https://www.linkedin.com/in/bruno-henrique-domingos/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/BrunoDreamsInCode" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+<a href="https://github.com/BrunoDreamsInCode">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://web-lab-kohl.vercel.app/" target="_blank">
-  <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-181717?style=flat&logo=google-chrome&logoColor=white">
+<a href="https://web-lab-kohl.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:bruno.dreams.in.code@gmail.com">
-  <img alt="E-mail" src="https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+<hr style="border:0; height:1px; background: linear-gradient(to right, transparent, #58A6FF, transparent);">
 
 <div align="center">
 
-**🐍 Contribuições**
+### 🐍 Snake Game
 
 <img src="https://raw.githubusercontent.com/BrunoDreamsInCode/BrunoDreamsInCode/output/snake.svg" alt="Snake animation" width="600">
+
+</div>
+
+<hr style="border:0; height:1px; background: linear-gradient(to right, transparent, #58A6FF, transparent);">
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=brunodreamsincode&color=58A6FF&style=flat&label=👀+Visitantes" alt="Contador de visitantes" />
 
 </div>
